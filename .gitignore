@@ -1,0 +1,4 @@
+.ztzz-cache/
+*.part
+.DS_Store
+Thumbs.db
